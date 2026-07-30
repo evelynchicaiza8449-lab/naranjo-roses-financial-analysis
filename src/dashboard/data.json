@@ -1,0 +1,26 @@
+{
+  "empresa": "NARANJO ROSES ECUADOR S.A.",
+  "sector": "Florícola / Agroexportador",
+  "desafio": "¿Es económicamente viable invertir $1,200,000 USD en la automatización de la planta de poscosecha y sistema de riego inteligente mediante financiamiento bancario a 5 años?",
+  "fecha_actualizacion": "Julio 2026",
+  "metricas_clave": {
+    "van_usd": 384520.45,
+    "tir_porcentaje": 18.65,
+    "wacc_porcentaje": 11.82,
+    "relacion_bc": 1.32,
+    "payback_anios": 3.4
+  },
+  "razones_financieras": {
+    "liquidez_corriente": 1.45,
+    "endeudamiento_total": 0.41,
+    "roa": 0.124,
+    "roe": 0.211,
+    "margen_operativo": 0.205
+  },
+  "escenarios": [
+    { "nombre": "Pesimista", "caida_ventas": "-15%", "van": -85400, "tir": "9.1%" },
+    { "nombre": "Base", "caida_ventas": "0%", "van": 384520, "tir": "18.65%" },
+    { "nombre": "Optimista", "caida_ventas": "+10%", "van": 612000, "tir": "24.2%" }
+  ],
+  "recomendacion": "Aceptar la inversión. El VAN positivo de $384,520.45 USD y una TIR del 18.65% (superior al WACC del 11.82%) sustentan técnicamente la incorporación del paquete tecnológico en Naranjo Roses."
+}
