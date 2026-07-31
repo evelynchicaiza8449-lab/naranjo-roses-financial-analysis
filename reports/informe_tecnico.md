@@ -1,7 +1,7 @@
 # Informe Técnico: Evaluación Financiera y Estratégica
 **Proyecto:** Naranjo Roses S.A.  
 **Fecha:** Julio 2026  
-**Dashboard Interactivo:** [Ver Dashboard en Vercel](https://tu-proyecto.vercel.app) *(Reemplaza esta URL con tu enlace de Vercel)*
+**Dashboard Interactivo:** https://vercel.com/stefania123/naranjo-roses-financial-analysis-nftb/7PbiSuYLq73hRX9N8XQDcSsz6H7a
 
 ---
 
@@ -42,4 +42,4 @@ El presente estudio analiza la viabilidad financiera del proyecto de expansión 
 ---
 
 ## 5. Conclusiones y Recomendaciones
-El proyecto de **Naranjo Roses S.A.** es **financieramente viable y altamente recomendable** bajo las condiciones del escenario base. Se sugiere proceder con la inversión manteniendo un monitoreo continuo sobre el volumen de ventas mediante el Dashboard interactivo implementado.
+El proyecto de **Naranjo Roses S.A.** es **financieramente viable y highly recomendable** bajo las condiciones del escenario base. Se sugiere proceder con la inversión manteniendo un monitoreo continuo sobre el volumen de ventas mediante el Dashboard interactivo implementado.
